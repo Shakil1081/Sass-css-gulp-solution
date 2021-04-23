@@ -1,0 +1,8 @@
+##Dependencies gulp-imagemin gulp-concat gulp-uglify gulp-sass
+
+Install Dependencies
+npm install
+Run all tasks
+gulp
+Watch all tasks/files
+gulp watch
